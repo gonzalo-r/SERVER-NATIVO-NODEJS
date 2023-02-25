@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ServerNodejs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalo-r/SERVER-NATIVO-NODEJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalo-r/SERVER-NATIVO-NODEJS/issues"
+  },
+  "homepage": "https://github.com/gonzalo-r/SERVER-NATIVO-NODEJS#readme"
+}
